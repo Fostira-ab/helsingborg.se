@@ -1,0 +1,24 @@
+name: Build and deploy 3.0/master.
+
+on:
+  push:
+    branches: [ 3.0/master ]
+    paths-ignore:
+      - .github/**
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - uses: helsingborg-stad/municipio-deploy/3.0@master
+      with:
+        deploy-host: ${{ secrets.DEPLOY_REMOTE_HOST_HELSINGBORG_SE }}
+        deploy-host-path: ${{ secrets.DEPLOY_REMOTE_PATH_HELSINGBORG_SE }}
+        deploy-host-backup-path: ${{ secrets.DEPLOY_REMOTE_BACKUP_DIR_HELSINGBORG_SE }}
+        deploy-host-user: ${{ secrets.DEPLOY_REMOTE_USER }}
+        deploy-host-user-key: ${{ secrets.DEPLOY_KEY }}
+        deploy-host-web-server-user: ${{ secrets.WEB_SERVER_USER }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}

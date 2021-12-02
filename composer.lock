@@ -1187,12 +1187,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/api-alarm-integration.git",
-                "reference": "f196b98337ca7d7eeb655611ec74114f86c412e3"
+                "reference": "7b69e6bc70033d756d9165efe088b8e82226058a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/api-alarm-integration/zipball/f196b98337ca7d7eeb655611ec74114f86c412e3",
-                "reference": "f196b98337ca7d7eeb655611ec74114f86c412e3",
+                "url": "https://api.github.com/repos/helsingborg-stad/api-alarm-integration/zipball/7b69e6bc70033d756d9165efe088b8e82226058a",
+                "reference": "7b69e6bc70033d756d9165efe088b8e82226058a",
                 "shasum": ""
             },
             "require": {
@@ -1213,7 +1213,7 @@
                 "issues": "https://github.com/helsingborg-stad/api-alarm-integration/issues",
                 "source": "https://github.com/helsingborg-stad/api-alarm-integration/tree/3.0/develop"
             },
-            "time": "2021-01-27T12:46:37+00:00"
+            "time": "2021-12-01T14:47:24+00:00"
         },
         {
             "name": "helsingborg-stad/api-event-manager-integration",
@@ -1454,12 +1454,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/component-library.git",
-                "reference": "532ea873a253cb256fea43573fb00ee1760db07f"
+                "reference": "cf306973b51a2e80492a1b363fed168bcfa11e87"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/component-library/zipball/532ea873a253cb256fea43573fb00ee1760db07f",
-                "reference": "532ea873a253cb256fea43573fb00ee1760db07f",
+                "url": "https://api.github.com/repos/helsingborg-stad/component-library/zipball/cf306973b51a2e80492a1b363fed168bcfa11e87",
+                "reference": "cf306973b51a2e80492a1b363fed168bcfa11e87",
                 "shasum": ""
             },
             "require": {
@@ -1478,7 +1478,7 @@
                 "issues": "https://github.com/helsingborg-stad/component-library/issues",
                 "source": "https://github.com/helsingborg-stad/component-library/tree/master"
             },
-            "time": "2021-11-30T11:52:08+00:00"
+            "time": "2021-12-01T14:09:14+00:00"
         },
         {
             "name": "helsingborg-stad/content-scheduler",
@@ -2116,12 +2116,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/Municipio.git",
-                "reference": "7fa3f997fcc1512b0c3b6b3d82f685610b522467"
+                "reference": "44d076df3b897dbb47ba1284162e756b5b0f5e30"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/Municipio/zipball/7fa3f997fcc1512b0c3b6b3d82f685610b522467",
-                "reference": "7fa3f997fcc1512b0c3b6b3d82f685610b522467",
+                "url": "https://api.github.com/repos/helsingborg-stad/Municipio/zipball/44d076df3b897dbb47ba1284162e756b5b0f5e30",
+                "reference": "44d076df3b897dbb47ba1284162e756b5b0f5e30",
                 "shasum": ""
             },
             "require": {
@@ -2178,7 +2178,7 @@
                 "issues": "https://github.com/helsingborg-stad/Municipio/issues",
                 "source": "https://github.com/helsingborg-stad/Municipio/tree/3.0/develop"
             },
-            "time": "2021-11-30T11:02:04+00:00"
+            "time": "2021-12-02T10:25:59+00:00"
         },
         {
             "name": "helsingborg-stad/recaptcha-integration",
@@ -4846,5 +4846,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.0.0"
 }
