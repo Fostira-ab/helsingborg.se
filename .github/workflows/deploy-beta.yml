@@ -23,3 +23,4 @@ jobs:
         deploy-host-web-server-user: ${{ secrets.WEB_SERVER_USER }}
         github-token: ${{ secrets.GITHUB_TOKEN }}
         acf-url: ${{ secrets.ACF_URL }}
+        
