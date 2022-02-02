@@ -97,7 +97,7 @@
         "path": "/",
         "wordpress-install-dir": "wp",
         "installer-paths": {
-            "wp-content/muplugins/{$name}": ["type:wordpress-muplugin"],
+            "wp-content/mu-plugins/{$name}": ["type:wordpress-muplugin"],
             "wp-content/plugins/{$name}": ["type:wordpress-plugin"],
             "wp-content/themes/{$name}": ["type:wordpress-theme"]
         }
