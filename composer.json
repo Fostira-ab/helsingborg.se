@@ -89,13 +89,15 @@
         "wpackagist-plugin/wp-piwik": "^1.0",
         "wpackagist-plugin/nginx-helper": "^2.2",
         "wpackagist-plugin/wp-sentry-integration": "4.13.0",
-        "helsingborg-stad/modularity-recommend": "dev-master"
+        "helsingborg-stad/modularity-recommend": "dev-master",
+        "helsingborg-stad/wpmu-filter-email": "dev-master"
     },
 
     "extra": {
         "path": "/",
         "wordpress-install-dir": "wp",
         "installer-paths": {
+            "wp-content/mu-plugins/{$name}": ["type:wordpress-muplugin"],
             "wp-content/plugins/{$name}": ["type:wordpress-plugin"],
             "wp-content/themes/{$name}": ["type:wordpress-theme"]
         }

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b6ba5c156a0b549b3ec0f25bbf98f4f6",
+    "content-hash": "e4b438e4c771e170dfd69644b353b151",
     "packages": [
         {
             "name": "algolia/algoliasearch-client-php",
@@ -2415,6 +2415,44 @@
                 "source": "https://github.com/helsingborg-stad/search-statistics/tree/master"
             },
             "time": "2017-08-30T12:03:26+00:00"
+        },
+        {
+            "name": "helsingborg-stad/wpmu-filter-email",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/helsingborg-stad/wpmu-filter-email.git",
+                "reference": "2280ee0f88b8abbedc42b933472b33e359b5648e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/helsingborg-stad/wpmu-filter-email/zipball/2280ee0f88b8abbedc42b933472b33e359b5648e",
+                "reference": "2280ee0f88b8abbedc42b933472b33e359b5648e",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "~1.0",
+                "php": ">=7.0"
+            },
+            "default-branch": true,
+            "type": "wordpress-muplugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Erik Granström",
+                    "email": "erik.granstrom@helsingborg.se"
+                }
+            ],
+            "description": "Plugin to filter sender name and e-mail address for outgoing e-mails.",
+            "homepage": "https://github.com/helsingborg-stad/wpmu-filter-email",
+            "support": {
+                "issues": "https://github.com/helsingborg-stad/wpmu-filter-email/issues",
+                "source": "https://github.com/helsingborg-stad/wpmu-filter-email/tree/master"
+            },
+            "time": "2022-02-01T16:31:58+00:00"
         },
         {
             "name": "illuminate/container",
@@ -4893,7 +4931,8 @@
         "helsingborg-stad/modularity-contact-banner": 20,
         "helsingborg-stad/algolia-index-js-searchpage-addon": 20,
         "helsingborg-stad/component-library": 20,
-        "helsingborg-stad/modularity-recommend": 20
+        "helsingborg-stad/modularity-recommend": 20,
+        "helsingborg-stad/wpmu-filter-email": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,
