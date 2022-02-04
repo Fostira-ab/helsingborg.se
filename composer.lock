@@ -2422,12 +2422,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/wpmu-filter-email.git",
-                "reference": "2280ee0f88b8abbedc42b933472b33e359b5648e"
+                "reference": "d00683028e09552b6c7c2cc1b17055d85f39aef0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/wpmu-filter-email/zipball/2280ee0f88b8abbedc42b933472b33e359b5648e",
-                "reference": "2280ee0f88b8abbedc42b933472b33e359b5648e",
+                "url": "https://api.github.com/repos/helsingborg-stad/wpmu-filter-email/zipball/d00683028e09552b6c7c2cc1b17055d85f39aef0",
+                "reference": "d00683028e09552b6c7c2cc1b17055d85f39aef0",
                 "shasum": ""
             },
             "require": {
@@ -2452,7 +2452,7 @@
                 "issues": "https://github.com/helsingborg-stad/wpmu-filter-email/issues",
                 "source": "https://github.com/helsingborg-stad/wpmu-filter-email/tree/master"
             },
-            "time": "2022-02-01T16:31:58+00:00"
+            "time": "2022-02-04T09:12:43+00:00"
         },
         {
             "name": "illuminate/container",
