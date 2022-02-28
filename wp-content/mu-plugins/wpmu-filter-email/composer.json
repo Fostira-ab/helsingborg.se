@@ -1,0 +1,17 @@
+{
+    "name": "helsingborg-stad/wpmu-filter-email",
+    "homepage": "https://github.com/helsingborg-stad/wpmu-filter-email",
+    "description": "Plugin to filter sender name and e-mail address for outgoing e-mails.",
+    "type": "wordpress-muplugin",
+    "license": "MIT",
+    "authors": [
+          {
+              "name": "Erik Granström",
+              "email": "erik.granstrom@helsingborg.se"
+          }
+    ],
+    "require": {
+      "php": ">=7.0",
+      "composer/installers": "~1.0"
+    }
+  }
