@@ -2148,12 +2148,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/Municipio.git",
-                "reference": "3c5b104e4a6db18fe3f9069ea7e6cb6e06eb1985"
+                "reference": "d71ee2aca0cce6764928d3d0c64836189398a59c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/Municipio/zipball/3c5b104e4a6db18fe3f9069ea7e6cb6e06eb1985",
-                "reference": "3c5b104e4a6db18fe3f9069ea7e6cb6e06eb1985",
+                "url": "https://api.github.com/repos/helsingborg-stad/Municipio/zipball/d71ee2aca0cce6764928d3d0c64836189398a59c",
+                "reference": "d71ee2aca0cce6764928d3d0c64836189398a59c",
                 "shasum": ""
             },
             "require": {
@@ -2210,7 +2210,7 @@
                 "issues": "https://github.com/helsingborg-stad/Municipio/issues",
                 "source": "https://github.com/helsingborg-stad/Municipio/tree/3.0/develop"
             },
-            "time": "2022-02-28T09:13:06+00:00"
+            "time": "2022-02-28T15:43:31+00:00"
         },
         {
             "name": "helsingborg-stad/recaptcha-integration",
