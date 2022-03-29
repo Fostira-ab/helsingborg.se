@@ -1932,12 +1932,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/modularity-form-builder.git",
-                "reference": "752ebc4e30b663978b0a578a553906e8ae7c62f4"
+                "reference": "014229e650ba121ebdacd9eb44c31174b73a3272"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/modularity-form-builder/zipball/752ebc4e30b663978b0a578a553906e8ae7c62f4",
-                "reference": "752ebc4e30b663978b0a578a553906e8ae7c62f4",
+                "url": "https://api.github.com/repos/helsingborg-stad/modularity-form-builder/zipball/014229e650ba121ebdacd9eb44c31174b73a3272",
+                "reference": "014229e650ba121ebdacd9eb44c31174b73a3272",
                 "shasum": ""
             },
             "require": {
@@ -1969,7 +1969,7 @@
                 "issues": "https://github.com/helsingborg-stad/modularity-form-builder/issues",
                 "source": "https://github.com/helsingborg-stad/modularity-form-builder/tree/3.0/develop"
             },
-            "time": "2022-03-29T12:37:00+00:00"
+            "time": "2022-03-29T12:56:35+00:00"
         },
         {
             "name": "helsingborg-stad/modularity-guides",
