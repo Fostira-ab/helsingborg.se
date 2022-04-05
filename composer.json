@@ -64,7 +64,6 @@
         "helsingborg-stad/modularity-json-render": "dev-3.0/develop",
         "wpackagist-plugin/stream": "^3.0.4",
         "wpackagist-plugin/wp-nested-pages": "3.1.4",
-        "wpackagist-plugin/mce-table-buttons": "^3.0.0",
         "wpackagist-plugin/user-switching" : ">=1.5.1",
         "wpackagist-plugin/autodescription" : ">=2.9.0",
         "wpackagist-plugin/redis-cache": "2.0.18",
